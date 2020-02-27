@@ -1,6 +1,4 @@
----
-title: "Child Classes Inherit Different Property Values From Same Parent Class"
-draft: true
+# Child Classes Inherit Different Property Values From Same Parent Class
 ---
 
 # Create Parent and Child Classes

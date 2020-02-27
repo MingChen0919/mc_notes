@@ -1,6 +1,4 @@
----
-title: "(tabular data) Conditionally Remove Groups in pandas.DataFrame.groupby"
-draft: true
+# Conditionally Remove Groups in `pandas.DataFrame.groupby`
 ---
 
 # Create DataFrame

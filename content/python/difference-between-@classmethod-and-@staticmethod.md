@@ -1,6 +1,4 @@
----
-title: "Difference between @staticmethod and @classmethod"
-draft: true
+# Difference between @staticmethod and @classmethod
 ---
 
 

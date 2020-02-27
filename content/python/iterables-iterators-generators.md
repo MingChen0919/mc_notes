@@ -1,6 +1,4 @@
----
-title: "Iterables, Iterators, and Generators"
-draft: true
+# Iterables, Iterators, and Generators
 ---
 
 

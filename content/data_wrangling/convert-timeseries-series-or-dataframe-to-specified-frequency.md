@@ -1,6 +1,4 @@
----
-title: "(datetime data) Convert TimeSeries Series or DataFrame to Specified Frequency"
-draft: true
+# Convert TimeSeries Series or DataFrame to Specified Frequency
 ---
 
 # Create a TimeSeries Series and TimeSeries DataFrame

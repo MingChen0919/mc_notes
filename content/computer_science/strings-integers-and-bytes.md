@@ -1,7 +1,6 @@
+# Strings, Integers, and Bytes
 ---
-title: "Strings, Integers, and Bytes"
-draft: true
----
+
 
 Computers do not recognize strings. Strings are represented as numbers, and then numbers are represented
 as binary digits.
@@ -22,7 +21,7 @@ ASCII use a single byte to represent characters, which can only represent 255 ch
 The Unicode standard describes how characters are represented by **code points**. A **code point value is an integer in 
 the range 0 to 0x10FFFF** (about 1.1 million values, with some 110 thousand assigned so far). 
 
-![Example image](../static/images/unicode-table-example.png)
+![Example image](/static/images/unicode-table-example.png)
 
 
 **In unicode system, every character can be represented by a hex number or a decimal number. Decimal numbers can be converted bytes.**

@@ -1,6 +1,4 @@
----
-title: "Usage of Variable __all__"
-draft: true
+# Usage of Variable `__all__`
 ---
 
 `__all__` specifies all the objects in the module that will be imported to the namespace. For example, the module.py file has the following code in it.

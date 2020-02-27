@@ -4,7 +4,7 @@ output:
     html_document:
       highlight: pygments
 params:
-  hidden_folders: 'vakata-jstree-3.3.5, .ipynb_checkpoints, spark-warehouse, ipynb, static'
+  hidden_folders: 'vakata-jstree-3.3.5, .ipynb_checkpoints, spark-warehouse, ipynb'
   github_repo_url: 'https://github.com/MingChen0919/mc_notes/blob/master/'
   github_site_url: 'https://mingchen0919.github.io/mc_notes'
 ---

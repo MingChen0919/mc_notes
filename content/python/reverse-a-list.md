@@ -1,6 +1,4 @@
----
-title: "Reverse a list"
-draft: true
+# Reverse a list
 ---
 
 # list[m:n:k]
