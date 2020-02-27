@@ -1,12 +1,12 @@
 ---
-title: '[Learning Is A Lifelong Process](https://github.com/MingChen0919/notes)'
+title: '[Learning Is A Lifelong Process](https://github.com/MingChen0919/mc_notes)'
 output:
     html_document:
       highlight: pygments
 params:
   hidden_folders: 'vakata-jstree-3.3.5, .ipynb_checkpoints, spark-warehouse, ipynb, static'
-  github_repo_url: 'https://github.com/MingChen0919/notes/blob/master/'
-  github_site_url: 'https://mingchen0919.github.io/notes'
+  github_repo_url: 'https://github.com/MingChen0919/mc_notes/blob/master/'
+  github_site_url: 'https://mingchen0919.github.io/mc_notes'
 ---
 
 ```{r setup, include=FALSE, warning=FALSE, message=FALSE}
