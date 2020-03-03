@@ -1,4 +1,7 @@
+content/.DS_Store
+venv
 data
 .idea
 .Rhistory
 .DS_Store
+experiments
