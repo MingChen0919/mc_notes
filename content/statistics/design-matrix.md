@@ -1,0 +1,1 @@
+In statistics, a **design matrix**, also known as **model matrix** or **regressor matrix** and often denoted by X, is a matrix of values of explanatory variables of a set of objects. Each row represents an individual object, with the successive columns corresponding to the variables and their specific values for that object.
